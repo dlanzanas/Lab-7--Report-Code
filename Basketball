@@ -1,6 +1,6 @@
 import pandas as pd
 
-def process_basketball_stats():
+def process_basketball_stats(): 
     """
     Cleans basketball statistics, processes makes-attempts columns, and computes statistics.
     """
